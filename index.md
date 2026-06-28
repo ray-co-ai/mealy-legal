@@ -1,5 +1,6 @@
 ---
-title: home
+title: Mealy
+permalink: /
 ---
 
 # Mealy

@@ -1,5 +1,6 @@
 ---
-title: terms
+title: Terms of Service
+permalink: /terms/
 ---
 
 # Terms of Service
