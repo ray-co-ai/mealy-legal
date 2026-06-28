@@ -1,0 +1,10 @@
+title: Mealy Legal
+description: Privacy Policy and Terms of Service for the Mealy app.
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
